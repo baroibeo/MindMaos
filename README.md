@@ -1,1 +1,1 @@
-# MindMaos
+# MindMaps
